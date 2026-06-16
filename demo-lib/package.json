@@ -1,8 +1,0 @@
-{
-  "name": "demo-lib",
-  "version": "1.0.0",
-  "description": "Beispielpaket für die ICP Supply-Chain Registry",
-  "type": "module",
-  "main": "index.js",
-  "license": "MIT"
-}
